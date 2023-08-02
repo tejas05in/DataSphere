@@ -7,3 +7,4 @@ ipykernel
 missingno
 nbformat
 statsmodels
+jupyter
